@@ -1,4 +1,4 @@
-🌐 Personal Portfolio Website
+Personal Portfolio Website
 Tech Stack: HTML, CSS, JavaScript
 Live Preview: [rxjdzns.netlify.app](https://rxjdzns.netlify.app/)
 
